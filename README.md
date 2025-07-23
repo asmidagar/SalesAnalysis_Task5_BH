@@ -52,7 +52,6 @@ The dataset used is [pizza_sales.csv](https://www.kaggle.com/datasets/nextmillio
 ## 📈 Sample Visualizations
 
 > 🧀 **Total Sales by Pizza Category**
-> 📅 **Monthly Sales Trend**
 > 🥇 **Top 10 Pizzas by Quantity Sold**
 
 ---
